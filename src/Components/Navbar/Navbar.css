@@ -1,0 +1,129 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 28px 0px;
+}
+
+.navbar_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar_bottom {
+  padding: 18px 0px;
+  background: #F2F2F2;
+  ;
+}
+
+.navbar_container_search form {
+  display: flex;
+  align-items: center;
+}
+
+.navbar_container_search input {
+  width: 400px;
+  height: 40px;
+  padding: 12px 18px 12px 16px;
+  gap: 8px;
+  opacity: 0px;
+  border: 1px solid #E6E6E6;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #808080;
+}
+
+.navbar_container_search button {
+  width: 98px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 24px;
+  border-radius: 0px 6px 6px 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16.8px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFF;
+  background-color: #00B207;
+  border: none;
+  cursor: pointer;
+}
+
+.navbar_container_btn_basket .icons {
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.navbar_container_btn_basket p {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 13.2px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #4d4d4d;
+  cursor: pointer;
+}
+
+.navbar_container_btn_basket p span {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 14px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #1a1a1a;
+}
+
+.navbar_links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar_link {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.navbar_link a {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #808080;
+}
+
+.navbar_phone span {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #1a1a1a;
+}

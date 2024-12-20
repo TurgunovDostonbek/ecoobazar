@@ -1,0 +1,50 @@
+.header {
+  background-color: #333333;
+  box-shadow: 0px 1px 0px 0px #E5E5E5;
+  padding: 12px 0px;
+}
+
+.header_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.header_container_left p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 15.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.header_container_right form select {
+  color: #FFFFFF;
+  background-color: #333333;
+  border: none;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.6px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  cursor: pointer;
+}
+
+.header_container_right a,
+b {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 15.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
