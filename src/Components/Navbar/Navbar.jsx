@@ -3,7 +3,7 @@ import "./Navbar.css";
 import { SlLike } from "react-icons/sl";
 import { CiShoppingBasket } from "react-icons/ci";
 import { MdOutlinePhoneInTalk } from "react-icons/md";
-
+// ........................Imglar..........................
 import navbarImg from "../../assets/img/Navbar/Logo (5).png";
 
 function Navbar() {
