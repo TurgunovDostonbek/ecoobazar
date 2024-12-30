@@ -8,7 +8,7 @@ import { popularProducts } from "../../../data";
 
 function PopularProduct() {
   return (
-    <div className="popular_product">
+    <section className="popular_product">
       <div className="product_container container">
         <div className="product_container_title">
           <h2>Popular Product</h2>
@@ -47,7 +47,7 @@ function PopularProduct() {
           })}
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 
