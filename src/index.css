@@ -8,7 +8,7 @@
 }
 
 .container {
-  max-width: 1240px;
+  max-width: 1250px;
   width: 100%;
   margin: auto;
   padding: 0 10px;
@@ -21,7 +21,7 @@
 
 .icons:hover {
   transform: scale(1.08);
-  transition: 0.5s;
+  transition: all 0.5s;
   color: #BF3434;
 }
 
@@ -43,7 +43,9 @@ a:hover {
 
 h1 {}
 
-button {}
+button {
+  cursor: pointer;
+}
 
 button:hover {}
 
