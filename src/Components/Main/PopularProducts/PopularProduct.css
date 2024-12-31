@@ -109,6 +109,7 @@
 .product_container_card:hover .product_container_card_info_right button {
   color: #FFF;
   background-color: #00B207;
+  transition: all 0.5s;
 }
 
 .product_container_card:hover .product_container_card_like {
