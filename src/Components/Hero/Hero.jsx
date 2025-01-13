@@ -1,6 +1,5 @@
 // Style
 import "./Hero.css";
-
 // Imglar
 import heroImg from "../../assets/img/hero/delivery-truck 1.png";
 
