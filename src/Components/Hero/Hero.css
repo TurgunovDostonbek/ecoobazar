@@ -12,7 +12,7 @@
 }
 
 .hero_container_left {
-  background-image: url("../../assets/img/hero/bg1.jpg");
+  background-image: url("../../assets/img/Hero/bg1.jpg");
   background-size: cover;
   border-radius: 10px;
   height: 600px;
@@ -97,7 +97,7 @@
 }
 
 .hero_container_right_top {
-  background-image: url("../../assets/img/hero/bg2.png");
+  background-image: url("../../assets/img/Hero/bg2.png");
   width: 423px;
   height: 288px;
   padding: 20px;
@@ -128,6 +128,7 @@
   text-decoration-skip-ink: none;
   color: #1a1a1a;
 }
+
 .hero_container_right_top span {
   color: #1a1a1a;
   font-family: Poppins;
@@ -157,7 +158,7 @@
 }
 
 .hero_container_right_bottom {
-  background-image: url("../../assets/img/hero/bg3.png");
+  background-image: url("../../assets/img/Hero/bg3.png");
   width: 423px;
   height: 288px;
   display: flex;
@@ -189,6 +190,7 @@
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
 }
+
 .hero_container_right_bottom button {
   cursor: pointer;
   width: 108px;
